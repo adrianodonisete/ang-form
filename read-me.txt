@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Testando github
-=======
 Testando github 2
 vamos inserir conteudo
 
 mais duas linhas serao criadas
 veremos o resultado
->>>>>>> tkt#01
